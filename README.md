@@ -1,0 +1,2 @@
+# Django-INM
+Management
